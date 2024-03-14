@@ -1,22 +1,23 @@
-<div id="header "align="center">
-<h1>Hi all, I'm Inlinera✨</h1>
-<h3>Frontend Developer from Russia 🇷🇺</h3>
-</div><br>
-<div id="languages" align="center">
-<hr>
-  <h3>💻Languages</h3>
+<div align="center">
+
+# Hi all, I'm Inlinera✨
+### Frontend Developer from Russia 🇷🇺
+  ### 💻Languages
   <details>
     <summary></summary>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>&nbsp;</details><hr>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg"/>&nbsp;
+</details><hr>
 </div>
-<div id="socials" align="center">
-<h3>🌼Socials</h3>
+<div align="center">
+
+### 🌼Socials
   <details>
   <summary></summary>
-<p>soon</p>
-  </details>
-<hr>
+
+**soon**
+</details><hr>
 </div>
