@@ -10,8 +10,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" height="50"/>&nbsp;
+<div>
+
+#### *🔺Technologies which I'm studying now🔺*
+<details>
+  <summary></summary>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>&nbsp;
+</details>
+</div>
+
 </details><hr>
 </div>
+
 <div align="center">
 
 ### 🌼Socials
