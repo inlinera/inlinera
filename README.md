@@ -29,6 +29,6 @@
 
   
   #### [![telegram](https://img.icons8.com/?size=25&id=oWiuH0jFiU0R&format=png&color=000000) Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
-  ![codewars](https://www.codewars.com/users/Vbnm1234/badges/micro)&nbsp;
+  ![codewars](https://www.codewars.com/users/znlznerv/badges/small)&nbsp;
 </details>
 </div>
