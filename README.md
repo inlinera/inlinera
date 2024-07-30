@@ -6,14 +6,14 @@
   <details>
     <summary></summary>
     
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,react,vite,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,typescript,react,redux,vite,git)
 <div>
 
 #### *🔺Technologies which I'm studying now🔺*
 <details>
   <summary></summary>
   
-![](https://skillicons.dev/icons?i=redux,typescript,tailwind)
+![](https://skillicons.dev/icons?i=typescript)
 </details>
 </div>
 </details><hr>
