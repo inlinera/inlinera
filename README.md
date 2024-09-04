@@ -17,7 +17,7 @@
 
 <div>
 
-#### *🔺Technologies which I'm studying now🔺*
+#### *🔺technologies that I am currently studying🔺*
 <details>
   <summary></summary>
   
