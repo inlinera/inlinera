@@ -34,7 +34,7 @@
   <summary></summary>
 <div align="center">
   
-  #### [![Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
+  #### [Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
   ![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inlinera&theme=dark)<br/>
   ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
