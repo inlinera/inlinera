@@ -32,9 +32,13 @@
 ### 🌼Socials
   <details>
   <summary></summary>
-
+<div align="center">
   
-  #### [![telegram](https://img.icons8.com/?size=25&id=oWiuH0jFiU0R&format=png&color=000000) Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
-  ![codewars](https://www.codewars.com/users/znlznerv/badges/small)&nbsp;
+  #### [![Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
+  ![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inlinera&theme=dark)<br/>
+  ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
+  </div>
+  
 </details>
 </div>
