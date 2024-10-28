@@ -36,11 +36,15 @@
   
   #### [Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
   ![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inlinera&theme=dark)<br/>
-  ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
   </div>
   
 </details>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inlinera&theme=gotham&layout=compact)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inlinera&theme=dark)
+
 ![](https://komarev.com/ghpvc/?username=inlinera&color=ff69b4&style=flat&abbreviated=true)
+
+![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
 </div>
