@@ -2,9 +2,6 @@
 
 # Hi all, I'm [Inlinera✨](https://github.com/inlinera)
 ### Frontend Developer from Russia 🇷🇺
-  ### 💻Languages and Technologies
-  <details>
-    <summary></summary>
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inlinera&theme=gotham&layout=compact)
 
@@ -19,23 +16,17 @@
 
 <div>
 </div>
-</details><hr>
+<hr>
 </div>
 
 <div align="center">
 
 ### 🌼Socials
-  <details>
-  <summary></summary>
 <div align="center">
   
   #### [Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
   ![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
   </div>
-  
-</details>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inlinera&theme=dark)
 
 ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
 
