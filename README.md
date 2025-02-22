@@ -2,6 +2,8 @@
 
 # Hi all, I'm [Inlinera✨](https://github.com/inlinera)
 ### Frontend Developer from Russia 🇷🇺
+
+![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
     
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inlinera&theme=gotham&layout=compact)
 
@@ -20,13 +22,6 @@
 </div>
 
 <div align="center">
-
-### 🌼Socials
-<div align="center">
-  
-  #### [Telegram Channel](https://t.me/+uThNBwg3TaMxYTQ6)<hr>
-  ![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
-  </div>
 
 ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
 
