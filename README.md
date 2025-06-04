@@ -1,30 +1,31 @@
-<div align="center">
+# Hi all, I'm [Inlinera](https://github.com/inlinera), Frontend Developer from Russia 🇷🇺
+<img src="https://i.pinimg.com/originals/ec/e1/e5/ece1e54d7dea5b1ba08aad8979aa2b15.gif" width="100%"/>
 
-# Hi all, I'm [Inlinera✨](https://github.com/inlinera)
-### Frontend Developer from Russia 🇷🇺
+## Frontend:
 
-![codewars](https://www.codewars.com/users/znlznerv/badges/small)<br/>
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=inlinera&theme=gotham&layout=compact)
-
-<img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" />
-<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" height="45" />
-
-<div>
-</div>
-<hr>
+<div align-itmes="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="40" />        
+<img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" />
+<img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mobx/mobx-original.svg" height="40" />
 </div>
 
-<div align="center">
+## Backend:
+
+<div align-itmes="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJs" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="Postgresql" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" alt="Insomnia" height="40"/>
+</div>
+
+<hr />
 
 ![](https://github-profile-trophy.vercel.app/?username=inlinera&theme=onestar)
 
-![](https://komarev.com/ghpvc/?username=inlinera&color=ff69b4&style=flat&abbreviated=true)
-
+![codewars](https://www.codewars.com/users/znlznerv/badges/small) ![](https://komarev.com/ghpvc/?username=inlinera&color=ff69b4&style=flat&abbreviated=true)
 </div>
